@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/suki-prof-pic.jpg"
+              src="/suki-prof-pic2.webp"
               alt="Shuki portrait"
               width="192"
               height="192"

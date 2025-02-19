@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import pleignsImg from "@/public/pleigns.png";
+import goodEatsImg from "@/public/goodEats.png";
+import wordWizardsImg from "@/public/wordwizards.png";
 
 export const links = [
   {
@@ -35,55 +35,55 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Pharmacutical Technician",
+    location: "Atlanta, GA",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
-  },
-  {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
-    description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+    "I worked as a pharmacutical technician for a few years. I handled all the medications and helped customers with their prescriptions.",
     icon: React.createElement(FaReact),
+    date: "2018 - 2020",
+  },
+  {
+    title: "Graduated bootcamp",
+    location: "Online",
+    description:
+    "I graduated after a few years of bootcamp. I learned full-stack web development and upskilled to a full-stack developer. I'm now working as a freelancer.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2022 - 2025",
+  },
+  {
+    title: "Account Manager",
+    location: "Lawrencville, GA",
+    description:
+      "I am now an Account Manager at a small company. I manage a small team and handle all client relations. I also handle all the company's income finances.",
+    icon: React.createElement(CgWorkAlt),
     date: "2021 - present",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
-    site: "https://youtube.com",
+    title: "wordWizards",
+    site: "https://wordwizards.onrender.com/",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "A social media/blogging website. It allows users to create, like, comment and share posts as well as other CRUD operations.",
+    tags: ["React", "Express.js", "postgreSQL", "CSS", "React-Bootstap", "Node.js"],
+    imageUrl: wordWizardsImg,
   },
   {
-    title: "rmtDev",
-    site: "https://github.com",
+    title: "PLeigns",
+    site: "https://pleigns-api.onrender.com/",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "An ecommerce website about buying airplanes. It allows users to browse, add to cart, checkout and other CRUD operations.",
+      tags: ["React", "Express.js", "postgreSQL", "CSS", "React-Bootstap", "Node.js",],
+    imageUrl: pleignsImg,
   },
   {
-    title: "Word Analytics",
-    site: "https://github.com",
+    title: "Good Eats!",
+    site: "https://goodeats.fun/",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "A public web app for quick recipes. It allows users to interact with the Spoonacular API to find recipes based off their preferences or fridge ingredients.",
+    tags: ["React", "CSS", "JavaScript", "Spoonacular API"],
+    imageUrl: goodEatsImg,
   },
 ] as const;
 
@@ -92,19 +92,20 @@ export const skillsData = [
   "CSS",
   "JavaScript",
   "TypeScript",
+  "Vercel",
   "React",
-  "Next.js",
   "Node.js",
   "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
   "Redux",
-  "GraphQL",
-  "Apollo",
   "Express",
   "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "Render",
+  "Bash",
+  "Analytics",
+  "SEO",
+  "Cybersecurity",
+  "Figma",
+  "React Native",
+  "Mocha",
+  "Chai"
 ] as const;

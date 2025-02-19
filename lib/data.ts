@@ -70,7 +70,7 @@ export const projectsData = [
     imageUrl: wordWizardsImg,
   },
   {
-    title: "PLeigns",
+    title: "Pleigns",
     site: "https://pleigns-api.onrender.com/",
     description:
       "An ecommerce website about buying airplanes. It allows users to browse, add to cart, checkout and other CRUD operations.",

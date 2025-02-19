@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import pleignsImg from "@/public/pleigns.png";
 import goodEatsImg from "@/public/goodEats.png";
-import wordWizardsImg from "@/public/wordwizards.png";
+import wordWizardsImg from "@/public/wordWizards.png";
 
 export const links = [
   {

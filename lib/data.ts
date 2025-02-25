@@ -105,7 +105,6 @@ export const skillsData = [
   "SEO",
   "Cybersecurity",
   "Figma",
-  "React Native",
   "Mocha",
   "Chai"
 ] as const;

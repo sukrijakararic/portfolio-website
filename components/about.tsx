@@ -30,9 +30,7 @@ export default function About() {
         <span className="font-medium">
           React, Express.js, Node.js, and postgreSQL
         </span>
-        . Additionally, I am proficient in using the command line interface and am always eager to expand my technical skills by learning about new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        . Additionally, I am proficient in using the command line interface and am always eager to expand my technical skills by learning about new technologies.
       </p>
 
       <p>

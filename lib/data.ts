@@ -103,6 +103,8 @@ export const skillsData = [
   "Vercel",
   "React",
   "Node.js",
+  "Tailwind",
+  "Next.js",
   "Git",
   "Redux",
   "Express",

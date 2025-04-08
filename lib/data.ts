@@ -64,7 +64,7 @@ export const experiencesData = [
     description:
       "I am interning at Tern. I deploy, collaborate, and work on a variety of tasks.",
     icon: React.createElement(CgWorkAlt),
-    date: "2025",
+    date: "2025 - 2025",
   },
 ] as const;
 

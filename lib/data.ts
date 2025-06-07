@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Graduated bootcamp",
     location: "Online",
     description:
-    "I graduated after a few years of bootcamp. I learned full-stack web development and upskilled to a full-stack developer.",
+    "I graduated after a few years of bootcamp. I learned full-stack/Security engineering and levelled up my skills.",
     icon: React.createElement(LuGraduationCap),
     date: "2022 - 2025",
   },

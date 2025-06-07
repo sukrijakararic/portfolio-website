@@ -22,7 +22,7 @@ export default function About() {
         While working as an{" "}
         <span className="font-medium">Account Manager</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
+        <span className="font-medium">full-stack web development as well as Cybersecurity</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem or just building whatever I want. My core stack
